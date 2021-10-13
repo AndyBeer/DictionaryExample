@@ -1,0 +1,14 @@
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.AssemblyReference.cache
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.13\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
